@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.professorangoti.snackac0d92a3b9c046c9bd6d30ba1c78d265"
     },
     "web": {
       "favicon": "./assets/favicon.png"
